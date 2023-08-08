@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vicnesterenko
 - 👀 I’m interested in Python, makeup and life balance
-- 🌱 I’m currently learning Pyhton/Django/SQL
-- 💞️ I’m looking for new opportunities and connections! 
+- 🌱 I’m currently learning Pyhton/Django/Flask/SQL
+- 💞️ I’m looking for new opportunities and connections
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/victoria-nesterenko-078554214/)
 
 <!---
