@@ -4,7 +4,7 @@
 - ✨ I’m looking for new job opportunities and connections
 - 👨‍🎓 I graduated from the Faculty of Informatics and Computer Engineering at Kyiv Polytechnic Institute (KPI)
 - 💙 I attended the [Python Beginning Scholarship Course](https://prjctr.com/course/python-beginning-scholarship) for 3 mounth
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/victoria-nesterenko-078554214/) or vicway.nesterenko@gmail.com
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/vicnesterenko/) or vicway.nesterenko@gmail.com
 
 <!---
 vicnesterenko/vicnesterenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
