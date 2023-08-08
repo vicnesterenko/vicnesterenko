@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Victoria Nesterenko
+- 👩‍💻 Hi, I’m Victoria Nesterenko
 - 👀 I’m interested in Python, makeup and life balance
-- 🌱 I’m currently learning Pyhton/Django/Flask/SQL
-- 💞️ I’m looking for new opportunities and connections
-- 👨‍🎓 I graduated from KPI with a bachelor's degree and a master's degree at the Faculty of Informatics and Computer Engineering
+- 🐍 I’m currently learning Pyhton/Django/Flask/SQL
+- ✨ I’m looking for new job opportunities and connections
+- 👨‍🎓 I graduated from the Faculty of Informatics and Computer Engineering at Kyiv Polytechnic Institute (KPI)
+- 💙 I attened [Python Beginning Scholarship Course](https://prjctr.com/course/python-beginning-scholarship) for 3 mounth
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/victoria-nesterenko-078554214/) and vicway.nesterenko@gmail.com
 
 <!---
