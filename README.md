@@ -3,7 +3,7 @@
 - 🐍 I’m currently learning Pyhton/Django/Flask/SQL
 - ✨ I’m looking for new job opportunities and connections
 - 👨‍🎓 I graduated from the Faculty of Informatics and Computer Engineering at Kyiv Polytechnic Institute (KPI)
-- 💙 I attended the [Python Beginning Scholarship Course](https://prjctr.com/course/python-beginning-scholarship) for 3 mounth
+- 💙 I attended the [Python Beginning Scholarship Course](https://prjctr.com/course/python-beginning-scholarship) for 3 month
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/vicnesterenko/) or vicway.nesterenko@gmail.com
 
 <!---
