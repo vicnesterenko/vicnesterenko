@@ -1,6 +1,5 @@
 - 👩‍💻 Hi, I’m Victoria Nesterenko
-- 👀 I’m interested in Python, makeup and how don't write shit code 
-- 🐍 I’m trying coding and improve my skills 
+- 👀 I’m interested in Python, makeup and how don't write shit code
 - 👨‍🎓 I graduated from the Faculty of Informatics and Computer Engineering at Kyiv Polytechnic Institute (KPI)
 
 <!---
