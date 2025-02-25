@@ -26,6 +26,4 @@
 
 ## 📊 GitHub Stats
 
-![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicnesterenko&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicnesterenko&layout=compact&theme=radical)
+![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicnesterenko&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicnesterenko&layout=compact&theme=radical)
