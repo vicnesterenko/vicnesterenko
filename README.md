@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- 💻 I’m a **Python Engineer** with 1.5 years of commercial experience.
+- 💻 I’m a **Python Engineer** with 2 years of commercial experience.
 - 🧪 Currently working as a **Python Engineer** for the past 1 year in Jooble.
 - 🎨 I’m also passionate about **makeup** and always on the quest to **write clean code**.
 - 🎓 Graduated from the **Faculty of Informatics and Computer Engineering** at **Kyiv Polytechnic Institute (KPI)**.
@@ -11,8 +11,8 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, SQL
-- **Frameworks:** FastAPI, Streamlit, Django (base level)
-- **Tools:** Playwright, Docker, Git, BeatifulSoup/Selenium, Kibana, Grafana
+- **Frameworks:** FastAPI, Streamlit, Django
+- **Tools:** Playwright, Docker/K8S, Git, BeatifulSoup/Selenium, Kibana, Grafana
 - **Interests:** Data scraping, Diffusion models, OpenAI
 
 ## 🌱 What I’m Learning
