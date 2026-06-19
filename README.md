@@ -4,7 +4,6 @@
 ## 🚀 About Me
 
 - 💻 I’m a **Python Engineer** with 3 years of commercial experience.
-- 🧪 Currently working as a **Python Engineer** for the past 2.5 year in Jooble.
 - 🎨 I’m also passionate about **makeup** and always on the quest to **write clean code**.
 - 🎓 Graduated from the **Faculty of Informatics and Computer Engineering** at **Kyiv Polytechnic Institute (KPI)**.
 
