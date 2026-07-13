@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Victoria Nesterenko**
+# 👋 Hi, I’m **Viktoriia Nesterenko**
 
 
 ## 🚀 About Me
