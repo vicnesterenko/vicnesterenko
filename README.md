@@ -76,6 +76,8 @@ class Viktoriia:
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Claude-D8F3DC?style=flat-square&logo=claude&logoColor=1B4332" />
+  <img src="https://img.shields.io/badge/Cursor-D8F3DC?style=flat-square&logo=cursor&logoColor=1B4332" />
   <img src="https://img.shields.io/badge/LangChain-D8F3DC?style=flat-square&logo=langchain&logoColor=1B4332" />
   <img src="https://img.shields.io/badge/LangGraph-D8F3DC?style=flat-square&logo=langchain&logoColor=1B4332" />
   <img src="https://img.shields.io/badge/Vertex_AI-D8F3DC?style=flat-square&logo=googlecloud&logoColor=1B4332" />
@@ -83,7 +85,6 @@ class Viktoriia:
   <img src="https://img.shields.io/badge/Qwen-D8F3DC?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-D8F3DC?style=flat-square" />
   <img src="https://img.shields.io/badge/MCP-D8F3DC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slack_Bots-D8F3DC?style=flat-square&logo=slack&logoColor=1B4332" />
 </p>
 
 ---
